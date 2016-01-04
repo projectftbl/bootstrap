@@ -1,0 +1,33 @@
+{
+  "name": "@ftbl/bootstrap",
+  "version": "0.0.0",
+  "description": "Server bootstrapper",
+  "main": "node index",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "engines": {
+    "node": "0.12.x",
+    "npm": "2.x"
+  },
+  "author": "Johnny Hall",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:projectftbl/bootstrap.git"
+  },
+  "dependencies": {
+    "@ftbl/log": "^1.0.0",
+    "forky": "^0.3.0"
+  },
+  "devDependencies": {
+    "@ftbl/gulp": "^1.0.7",
+    "chai": "^3.4.1",
+    "gulp": "^3.9.0",
+    "mocha": "^2.3.4",
+    "proxyquire": "^1.7.3",
+    "sinon": "^1.17.2",
+    "sinon-as-promised": "^4.0.0",
+    "sinon-chai": "^2.8.0"
+  }
+}
