@@ -1,6 +1,6 @@
 {
   "name": "@ftbl/bootstrap",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Server bootstrapper",
   "main": "node index",
   "scripts": {
