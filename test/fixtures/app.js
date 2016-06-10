@@ -1,7 +1,11 @@
 var App = function() {}
 
 App.prototype.start = function() {
-  return arguments;
+  return {
+    catch: function() {
+      
+    }
+  };
 };
 
 module.exports = App;
