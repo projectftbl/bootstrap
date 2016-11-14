@@ -1,5 +1,5 @@
 {
-  "name": "@ftbl/bootstrap",
+  "name": "@recipher/bootstrap",
   "version": "1.0.2",
   "description": "Server bootstrapper",
   "main": "node index",
@@ -14,14 +14,14 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git@github.com:projectftbl/bootstrap.git"
+    "url": "git@github.com:recipher/bootstrap.git"
   },
   "dependencies": {
-    "@ftbl/log": "^1.0.0",
+    "@recipher/log": "^1.0.0",
     "forky": "^0.3.0"
   },
   "devDependencies": {
-    "@ftbl/gulp": "^1.0.7",
+    "@recipher/gulp": "^1.0.7",
     "chai": "^3.4.1",
     "gulp": "^3.9.0",
     "mocha": "^2.3.4",
